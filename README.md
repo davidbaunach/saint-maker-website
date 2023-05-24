@@ -1,2 +1,2 @@
-# saint maker new website
- The website for the Saint Maker project.
+# Saint Maker Website
+ A website for the Saint Maker project.
