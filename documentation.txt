@@ -1,3 +1,3 @@
 Start of documentation on how to propose updates to the website.
 
-How to push updates to the site: push to 'deployment' branch, which will push update to the Cloudflare static site hosting that Fr David Baunach is paying for. 
+How to push updates to the site: push to 'main' branch, which will push update to the Cloudflare static site hosting that Fr David Baunach is paying for. 
