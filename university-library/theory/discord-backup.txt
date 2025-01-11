@@ -1,0 +1,1080 @@
+>>>Channel: Teaching Company Beginnings
+
+Fr David Baunach — 10/19/21, 2:12 PM
+First step in the whitepaper is building a Web Development Teaching Company. Here's a place to discuss how that can happen, structure of said company, if perhaps another sort of company would be a better way to start, and really anything related to getting the first teaching company off the ground!
+teufelhund1006 — 10/29/21, 3:38 AM
+This is actually something I'm working on right now.
+Working out funding and incorporation
+Fr David Baunach — 10/29/21, 3:35 PM
+Don't know if it would directly benefit you, or the starting of a teaching company, but a thought I had recently was a group of web devs starting a bounty hunting group. Seeking out bounties in the crypto space (mostly for DEXs and DEFI stuff), as well as FOSS development bounties, and general hackathons. It would have to be a confederacy of devs with different knowledge sets, but if you got the right mix of people, would be an interesting way to begin a dev group.
+teufelhund1006 — 11/1/21, 12:29 AM
+Yeah I have access to a good number of talented current/ex socom guys with alot of cyber experience
+Fr David Baunach — 11/9/21, 9:30 AM
+@teufelhund1006 do you now any of them who has started a web dev company? At some point I'll need to talk to someone who's done it to find out how it needs to get started.
+teufelhund1006 — 11/9/21, 11:53 PM
+Hmm, no most are in cyber security specialist position
+Fr David Baunach — 11/18/21, 9:22 PM
+Alright, so due to meetings and stuff, I've spent about 20ish hours driving the last few weeks, which has given me plenty of time to think. My above idea (basically a bounty hunting group) is still too inflexible. There obviously needs to be a balance between flexibility and rigid structure (the human body needs both blood and bone to function), but my present thinking is that can be achieved without even forming a structured company.
+The idea is: a master, an apprentice, and delegation of work to freelancers. The master needs to be a literal master: able to teach, having full understanding of whatever job has to be undertaken, and thus know how to delegate the tasks necessary to the apprentice, as well as to freelancers. Take for example the Saint Maker app (at least the beginning app, which will necessarily be very simple). The master is hired by us, to make the app. Part of the stipulation is the master must take an apprentice, our first "student," who will do up to a certain number of hours a week of work for the master, thereby earning tuition at an online university program, as well as some sort of stipend (not sure how that will have to work, more research needed! but there should be something given on top of tuition). The master will have to manage the apprentice, as well as hire any freelancers needed to make sure all the work happens.
+My reasoning for this structure: it allows us to start with at least one student, it doesn't require the formation of an actual company, if whoever we use as the master ends up working out, we can continue to send work their way, (if not we can part ways) and finally it's a methodology that has worked in the past (some would argue the master-apprentice model is the only one that actually works to pass on knowledge and wisdom).
+I'm really interested in @Krysztof and @FafnirBrood feedback on this thought, since they work(ed) in the field.
+FafnirBrood — 11/18/21, 11:06 PM
+I don't think you can get around forming a company. If you're moving money, the IRS wants to know. Its not really that hard to start up an LLC
+I'm thinking your best bet might be to focus on just starting a profitable software company. Software doesn't (have to) take much overhead outside of programmer salaries and work laptops
+FafnirBrood — 11/18/21, 11:14 PM
+Whatever part of the system generates the money is going to be the engine that makes everything else move. Usually thats tuition/classes but in this case they're paying in labor. That can be converted to cash, but the mechanism can be a challenge
+If you manage it though, everything else becomes much simpler
+The apprenticeship model is ideal, but expensive. You'll eventually be tempted to get more out of limited numbers of masters
+Iirc, historically masters often had multiple apprentices (think of a blacksmith with three sons), but thats an implementation detail
+FafnirBrood — 11/18/21, 11:24 PM
+You have to consider, every successful company generates profit, often vastly out of proportion to salaries of employees. Normally that goes to shareholders/owners but that could easily be reinvested into university infrastructure
+Oreilley autoparts is one of the biggest software employers in springfield, but they don't even sell software. All those coders are funded by the autoparts, and their jobs are just to improve infrastructure within the organization
+FafnirBrood — 11/18/21, 11:32 PM
+One other thing, in the US its generally assumed that employers are legally responsible for everything. Employees want contracts so if something happens they still get paid. There is a LOT of legal stuff that goes into being an employer unless you're dealing under the table in cash. Whether you call them contractors, apprentices or what, you need to provide them with W2s so the IRS doesn't kill them
+Just in general, you want to stay above board if possible. Start a company, get an EIN, yield tribute, make profit
+FafnirBrood — 11/18/21, 11:46 PM
+Other thing, re: apprenticeships. Modern software development is not done in isolation. I work on personal projects all the time and its nothing like working for a big corporation. Things like version control, server management, ticketing etc. Were things I'd never heard of before I got a serious job. If I took an apprentice right now, he wouldn't learn any of that
+I think internship is a better base model for what you want to do, at least in software
+Wick
+APP
+ — 11/20/21, 5:27 PM
+Krysztof has been silenced for 1m :mute:
+:space::arrowRight: Reason: Posting Walls Of Text
+Krysztof#3538 | 575369922792783881
+Fr David Baunach — 11/20/21, 8:20 PM
+Sorry to @Krysztof for the spam trigger, I'm working on getting that setup better (I had just left everything on default when I setup the bot)
+Fr David Baunach — 11/21/21, 4:36 PM
+Spam trigger for wall of text is turned off now, everyone should be good to go now!
+@FafnirBrood thank you so much for the in-depth reply! Krysztof let me know his reply (that got deleted by the spam blocker bot) was in agreement about how a learner would not benefit from only working with one person, it needs to be a team thing. That makes sense to me how you guys explain it, it's not like blacksmithing or woodwork where it can be mostly learned from one person, but since it's a perpetually developing field, a learner will need to have a lot of perspectives.
+Fr David Baunach — 11/21/21, 4:45 PM
+On to all the IRS stuff (which means my blood pressure is about to shoot through the roof 😠 ) I will concede to your points. Doing things the normative way won't necessarily be prohibitively expensive up front, and it will remove possibilities of legal trouble down the road. However, I do want to further explain my motivation for what I proposed above, as it might allow other options to present themselves:
+Due to my parish work, we engage people often as independent contractors, weather that be to provide cleaning service on campus, setup networking systems, and other things that need to be done by professionals, but since we are in the countryside, most of them work self-employed. This does present certain challenges, as the job needs to be fully explained up front, and any changes during the job result in a new agreement having to be drawn up, but it's just the way things are done around here.
+Fr David Baunach — 11/21/21, 4:55 PM
+The immediate benefit (among many), is that we are not fully employing these individuals, just contracting them for specific jobs. Thus we don't have to put them on payroll, do all the paperwork necessary for the diocese, just have to issue a 1099 for tax purposes, and also if there contractor does a poor job, we won't hire them again in the future. It also means they provide their own tools for the job.
+Fr David Baunach — 11/21/21, 5:04 PM
+With all that in mind, I saw a similar model being the best suited to starting out and using Open Collective as the funding/payout tool for the project: we hire a coordinator to contract with freelancers to build the various parts of the project. This means we're only paying out to one contractor (and from what I understand, there's a mechanism in Open Collective to take care of the tax side of things), and that payment includes pay for them, and the funds necessary to contract the other freelancers necessary. Into that equation, we introduce our first student, who really wouldn't be learning the programming side of things, but the coordination of freelancers and working with contractors.
+ANYWAY, based on what you said, and this clarification of my motives, the best course of action seems to be: raise startup money via Open Collective -> find entrepreneur who wants to start this 'teaching software company' -> stipulation to receive funding is having 1 intern (which will be first student) -> and I'm thinking that until the company is profitable enough to afford tuition at whatever online university the student attends, that the Open Collective would be used to fund the student's tuition (and down the road this might be the ideal way to fund it anyway, as the Saint Maker not-for-profit could run it as a scholarship fund, which the teaching companies can contribute to, thus gaining a write-off, but that's just me spit-balling)
+FafnirBrood — 11/21/21, 8:55 PM
+That seems like a good plan to me
+Krysztof — 11/21/21, 9:44 PM
+I was supposed to rewrite/repost my reply this morning but I neglected to (I apologize). In addition to agreeing with what Fafnir wrote I was also going to bring up just how greatly increased the chance of failure is if our experiment with a teaching company fails; even if we don't charge them the amount spent for the four years at the company, we have wasted four years of their life and set their career back four years. However, this idea of having the teaching company essentially wrap an existing online degree program seems to eliminate that concern (since we will be working in the accredited sphere and the only experimental part will be the additional help we are providing in teaching them how to make a good resume and learn life skills).
+
+ Can I turn that "rough timeline with arrows" into a word doc so we can collaborate on ideas and concerns about the different stages to flesh it out more?
+Fr David Baunach — 11/22/21, 1:11 PM
+@Krysztof that would be awesome, go for it!
+Krysztof — 11/22/21, 5:28 PM
+doc:
+https://docs.google.com/document/d/1G5zVavhunSGBQWJ7YM9XDpRiWtma5rmaCrlrBOiJuRE/edit?usp=sharing
+Google Docs
+Timeline: Teaching Company
+Raise startup money via Open Collective Find entrepreneur who wants to start this 'teaching software company' Stipulation to receive funding is having 1 intern (which will be first student) And I'm thinking that until the company is profitable enough to afford tuition at whatever online universit...
+Image
+Fr David Baunach — 11/22/21, 9:41 PM
+Thanks so much @Krysztof !!!
+Krysztof — 4/4/22, 9:24 PM
+Based on some recent conversations about the SaintMaker, I’m trying to put together a stage zero (one?) of what the teaching company would look like. This is the smallest, legally and financially, functioning example of the teaching company so it’s also where we should probably start.
+
+—-----------------------------------------
+
+Teaching Company Stage Zero
+
+A lot of people already go to accredited online colleges; since we can’t make substitutes for those yet, what we are going to make instead is a wrapper that fits around them and provides the students with additional curriculum (how to write a resume, get a job, find an apartment, etc) and work experience. This will take the form of an online community the student can apply to. If they are accepted, they’ll fit these extra-curricular activities into their schedule. Further down the road into their degree they’ll become an apprentice to a freelancer; this freelancer will assign tasks to them, give them advice, critique their work, etc. Because this primarily needs to be done remotely to remain cheap, the first career this “college wrapper” would be offered for will be software engineer.
+I think all the above would need is one mentor/freelancer, the PWA, and one student who would like to try it out for semester and we could get started
+Fr David Baunach — 4/5/22, 10:51 AM
+I really like it! And it's basically a learning-internship, or maybe better put as a freelance internship, since it'll be task-based. I've got more thoughts to add, but it'll have to be later when I have time. That being said, once we get the prayer book done, we could probably move on to this pretty quickly.
+Krysztof — 4/5/22, 9:44 PM
+We might want to reconfigure the prayer book PWA to fit this idea a bit better. The PWA should still definitely emphasize the Catholic nature of this endeavor, but I think the requirements stemming from the idea above change the structure of the PWA into more of a slim "about page, signup, and setup schedule application" (part of that schedule could be prayer, discernment meetings, spiritual direction, etc)
+Granted, this stage zero could be entirely handled without the PWA (a combination of email, calendly, and a free project management tool like trello would probably be sufficient); it just seems better to start configuring the PWA to be the automated pipeline that students go through to be assigned mentors within the Saint Maker organization
+Fr David Baunach — 4/11/22, 12:20 PM
+I was thinking more about the prayerbook PWA as an advertisement so we could show we've built something, and also as a thing we could build on to. So maybe we could make it a multi-stage project: prayer book, then onboarding portal? Or maybe it's better to do both at once?
+That also does bring up a lot of background questions, like hosting, url, stuff like that. The more I think about it, that sorta has to be hammered out first, otherwise we're going to have to go back and fix a lot of things later when we decide to change it.
+So it might be better to start with external services (trello, calendly, etc...), find out exactly what we need, then build out the PWA to fit that. In the mean time, we can get the prayerbook part commissioned, and figure out the hosting+scaling solutions we want to employ.
+Fr David Baunach — 4/11/22, 12:30 PM
+Another thought in connection to all of this: the method of funding the first mentor - was recently looking into Liberapay (https://en.liberapay.com/) and I love the concept. It's basically patreon, but for devs. They connect their github account, say a bit about what projects they contribute to, and people can sign up to support them. I tried it out a little, and it needs some polish. But I was thinking, we could just use Patreon for the first mentor (in a system like @Krysztof is outlining above). Need to flesh this out more, hopefully tomorrow on my day off. But wanted to get the basic idea written out.
+Liberapay
+We help you fund the creators and projects you appreciate.
+Image
+Krysztof — 4/11/22, 8:19 PM
+Random thought, to trial test the system (before introducing actual students to it), I could just take a few online courses and see how this system (the mentorship, the extra curricular classes, etc) would fit around my courses and my job (and down the road, a mentor might start with a test semester (probably a summer one so that it's short) to iron out any training gaps before they get assigned to a student
+
+
+>>>Channel: University Of St Hildegard
+
+Fr David Baunach — 10/19/21, 4:08 PM
+The university is to grow out of the first teaching company, it's nascent structure needs to be developed at the same time. Here is a place to strategize what that structure needs to look like, and how we can begin it's growth.
+Krysztof — 11/6/21, 3:49 PM
+From what I’ve seen, the steps needed to build our own university from scratch (even an online one) seem extreme (especially with the accreditation process). I think it would be far better to wrap existing online education methods with a fair payment programs (instead of the loan-based ones the current education system has) like the ones described in “initial funding” and augmented by extra classes that teach interviewing, resume-writing, and the like.
+To start even smaller than that, the initial draft of the university could just be a collective of tutors sharing tools and methods to effectively freelance as teachers.
+
+With modern tools like calendly, you can essentially sell two hours of your free time a day (calendly has paypal integration) as whatever your degree is (philosophy, writing, grammar, etc) to whoever needs help with related topics. This allows us to tap into and organize a pool of people who already have jobs but only have a few hours of freetime to give to a project like this
+Just a few thoughts on the idea of where to start. I really need to look on Youtube and other places to see if I can find interview with the creators of online code bootcamps and see how they started; the insights from those interviews seem like they would be very helpful in determining what realistic options are for starting a teaching company
+Fr David Baunach — 11/9/21, 9:07 AM
+That's definitely my thoughts as well. At first, this university is basically a "front end" for existent online learning solutions. We provide work and facilitate the payment, student does their studies through whatever external institution that makes sense to use. I even think the initial classes for interviewing/resume-writing/general life stuff: is something we need to come up with as we go. It will be more practical to tackle problems as they come up, and we'll learn what is most necessary from the students as they go through the process, and address the most pressing issues first.
+Fr David Baunach — 11/9/21, 9:28 AM
+The thing you bring up with Calendly intregues me, because the problem I keep trying to solve is exactly how to start. It's like the Achilles paradox from Zeno, picking a good place to start seems to present an infinite number of steps to reach it. Legal entities is a good example: we can start by trying to keep things as decentralized as possible (for the purpose of being able to start small), but at some point the development of legal entities seems necessary for the whole project to not become a giant mess. Decentralized Autonomous Organizations (DAOs) can definitely be usefull, or co-ops to use a more traditional term. But the problem there is hierarchy: can we make a super DAO composed of DAOs? It seems possible, and it seems the best way for this project (especially if we're trying to start from nothing) to get off the ground. I'm just spitballing here, but maybe an overarching DAO for the Saint Maker, then underneath that a 1 DAO for the university, and another for Saint Maker development. That might be enough to start with, but I do think it will need to proliferate from there: different sub-structures for the university, eventually all the way down to different departments for different subjects, etc...
+Fr David Baunach — 11/12/21, 8:06 PM
+For future research, the 4 colleges in the US that have a work-to-cover-tuition model:
+1. https://www.cofo.edu/Scholarships
+2. https://www.alc.edu/admissions/financial-aid/appalachian-leaders-college-scholarship/
+Alice Lloyd College
+mmiller
+ALC’s Tuition Guarantee
+Visit the post for more.
+Image
+3. https://www.berea.edu/about/quick-facts/
+Berea College
+Quick Facts - Berea College
+Berea College, founded in 1855, offers a high-quality education to bright and talented students who have limited economic resources.
+Image
+4. https://www.deepsprings.edu/
+Deep Springs College
+Home | Deep Springs College
+Deep Springs College, located 40 miles from Bishop, California, on an isolated cattle ranch in Deep Springs Valley. is a unique institution of higher learning.
+Image
+Based on just as cursory look, all 4 take donor funding, and at least the first 3 explicitly state they take Federal funding. The 4th one is the most interesting to me, they basically run a farm, it's a micro school (looks like less than 100 students), and they've got a self-governance model that includes the students.
+Fr David Baunach — 12/9/21, 8:54 AM
+Thinking to the far future,  it would be amazing if the university was completely self-directed in terms of classes chosen by the student. Like a video game skill tree: choosing which path of learning to follow, taking the classes necessary to progress down that path. We could eventually get to the point where graduation is taken out of the equation: student does what they need to in order to get job they want, and can come back to "level up" later to get skills for another job. This would also be an interesting integration into the Saint Maker, as it could be used for other areas in life (learning new ways to pray, different holiday traditions, etc.)
+FafnirBrood — 12/9/21, 1:42 PM
+Thats how commercial certifications work. Check out the amazon web developer tree if you want to see something like this working in a practical setting. Each test you pass gives you a digital badge
+Fr David Baunach — 12/11/21, 2:30 PM
+That's so cool! And it also means we just have to steal it, no need to invent it from the ground up!
+Fr David Baunach — 6/29/22, 11:46 AM
+Stumbled across a college that looks like it's sort of doing what we're aiming for: https://www.collegeofstjoseph.com/
+College of St. Joseph the Worker
+College of St. Joseph the Worker
+Image
+Fr David Baunach — 7/19/22, 10:46 PM
+Another project that looks like it might be useful: https://github.com/ivqonsanada/phive
+GitHub
+GitHub - ivqonsanada/phive: A kind of freelancing website for College.
+A kind of freelancing website for College. Contribute to ivqonsanada/phive development by creating an account on GitHub.
+GitHub - ivqonsanada/phive: A kind of freelancing website for College.
+Fr David Baunach — 10/6/22, 4:39 PM
+Welp, was trying to get some stuff done for the University website while on my chromebook, super frustrating. Guess it'll have to wait until I'm back at my pc.
+Fr David Baunach — 10/11/22, 9:36 AM
+In meetings all week (our annual priest gathering for continuing ed), figured out how to get vscode working on the  chromebook, and got the basics done on the university website. It's super rough, but everything is there that needs to be. Repo is live, being hosted via Cloudflare pages: https://ushb.xyz/
+Fr David Baunach — 12/10/22, 7:38 PM
+Been thinking about the University recently, An aspect of it will need to be places to share both videos and papers, essentially Youtube and Medium clones. Looking into already available options, with an emphasis on self-hostable, if not p2p. Will drop a few links below for further research:
+https://www.tribler.org/
+https://joinplu.me/
+Plume
+Image
+https://writefreely.org/
+WriteFreely
+WriteFreely
+Minimalist, federated, self-hosted blogging platform.
+https://seedess.com/
+https://radicle.xyz/
+Radicle
+Sovereign code infrastructure
+Radicle
+Fr David Baunach — 12/10/22, 8:13 PM
+https://micro.blog/
+Fr David Baunach — 12/10/22, 10:51 PM
+https://www.linen.dev/
+Linen | Slack alternative designed for communities
+Google-Searchable and community focused Slack alternative. Sync your Slack and Discord conversations to Linen and get SEO benefits while reducing customer support load.
+Fr David Baunach — 1/16/23, 7:44 AM
+Potentially useful for the university: https://learningequality.org/kolibri/
+Image
+Fr David Baunach — 1/16/23, 10:15 PM
+So I haven't gotten anywhere with trying to advertise the project. My heart just isn't in it right now. And the app seems to be moving ahead under @Krysztof's  direction, so I think I'll try working on the University aspect of things for now, can always get back to advertisement later.
+One of the limitations I've got to contend with is I can't personally start a business or even a not-for-profit as a priest, both because of policy and honestly I wouldn't have the time even if canon law were different.
+But, limitations just shape action, they don't stifle it.
+
+What I can do, is focus on making an environment in which businesses and not for profits can start.
+With that in mind, and with the fact that I argued before that the University has already begun with the beginnings of the Saint Maker app, I see the next step as finding a platform where the embryonic University can continue to gestate.
+What that platform would need to support the University at the bare minimum: 1. A place to share ideas, and 2. A place to grow a reputation.
+1, because without exchange and processing of thought, there can be no learning.
+2, because without some way to investigate the person presenting/commenting/critiquing ideas, there is no way to know if they are worth listening to.
+It's essentially what we have here on Discord and even moreso over on Reddit: discussion and presentation can happen, and contributions over time of specific persons can be explored.
+But it also seems best that the university have it's own "place." It needs some containment, both the help organically grow it's identity, as well as being a little defensible against hostile actors.
+I think a blogging social media could fit the bill. I also know we are nowhere near being able to do that with the app, it would be too much of a stretch from where we are at.
+I also must admit my favorite project, SSB, is not ready for it yet.
+I'm going to start exploring some of the possibilities I've linked above for further research. From what I remember when I linked them all, not sure if any will fit the bill, but I'll start there and then venture out into the great unknown!
+Krysztof — 1/18/23, 8:01 PM
+There's a lot of options for pre-canned forums which seems to fit the criteria set out above (and that would allow us to gradually move away from the discord)
+
+However, I think the social media blog would be a bit better. At the moment we do not have much of a community which is kind of critical to a forum; because of that, the social media blog could sounds like a better idea. It could gradually build up attention and discussion and then that can be funneled either into the discord or into a forum
+Fr David Baunach — 1/20/23, 11:24 AM
+Definitely agree, a forum would be nice, but definitely presumes a bigger community. At some point I would like to see the University start it's own version of Wikipedia, along with a forum, in order to be truly universal and discuss everything, but again, a long way off.
+I haven't dug deeply into any of the options above, or done any in depth research into other options, but WriteFreely jumps out at me as a good starting point:  for $10 a month can get hosting for up to 100 blogs, it has an incredibly simple interface, essentially a Medium clone. We could use Hypothes.is for comments and discussion, cutting out need for moderation of comment sections. WriteFreely has a self hosted version I'm going to spin up and test when I start doing a deep dive into the above options, but from just a cursory scan it seems the most promising.
+Fr David Baunach — 1/20/23, 8:59 PM
+So, decided to deep dive on WriteFreely first, and glad I did, seems like it will work perfectly! I spun up an instance which can be accessed here: https://social.techpriesthub.xyz/read I started 2 test blogs, checked all the admin customizations, checked the invite/onboarding flow. If anyone else wants to try onboarding here's an invite link that will be live for a week: https://social.techpriesthub.xyz/invite/wqPx00
+
+Super simple, and no need for an email address, so privacy is respected! Can get through sign up and start writing in about 30 seconds. I can envision having a sign-up process/application like the whitepaper mentions, invite link generated, a few other tutorials on how to get started. I tested out Hypothes.is with it, and it works flawlessly as well.
+
+I'm going to look into a few other of the options I linked before, but this seems like it will be perfect.
+WriteFreely
+WriteFreely Reader
+Read the latest posts from WriteFreely.
+Fr David Baunach — 1/22/23, 9:05 PM
+Did a closer look at Tribler, which is essentially torrenting over Tor with possibilities for streaming. I'm seeing mixed reviews on it's effectiveness, and I'm sure I'm on enough Government lists with all the p2p/tor/freenet stuff I've explored, so I'm not going to try it out. Could see potential usefulness for video streaming in the future, but it's definitely not what we need at this moment.
+Fr David Baunach — 1/22/23, 9:07 PM
+Well, my look into Plume was quick, they're what WriteFreely forked from, and it seems like development has stopped, so it will be struck from the list of potentially useful stuff.
+Fr David Baunach — 1/24/23, 8:37 PM
+Seedess is going to be a quick review as well, looks pretty dead. A cool project though, appears to basically use Bitorrent as well more traditional means to stream video. Not what we need atm, but still interesting.
+Fr David Baunach — 1/24/23, 9:25 PM
+Okay, not sure why I linked Radicle, it's a p2p Git thing. Probably meant to post it somewhere else.
+Fr David Baunach — 1/24/23, 9:31 PM
+This will be a quick one as well. Micro.blog appears to be a Blogger clone, just designed for individual blogs (though there seems to be a community aspect, but it's just everyone using Micro.blog). It's not going to be useful for what we need.
+Fr David Baunach — 1/24/23, 9:55 PM
+Okay, Linen is the most interesting thing I've seen out of the bunch, and it might be a useful direction to ponder, though it's not what I was thinking we'd need, or at least not right now. It's an alternative to Discord, but is open in terms of discovery-don't have to join the server to view the channels. They also render a static version of the server so search engines can index the channels, thus keeping it fully open and searchable by the public. UI is pretty bare bones, Github OAuth is supported, and apparently they have a way to import from Discord. Some cons that pop out to me are it's definitely a young project, and their pricing model for a business white label server isn't publically posted on their site, which makes me wonder how they are funded, though the site does state they are backed by Y Combinator, which appears to be a VC group, so they could possibly disappear when funding runs out. But their code is licensed as "GNU Affero General Public License v3.0," which appears to be a typical copyleft license, so presumably it could be carried on.
+Fr David Baunach — 1/24/23, 10:01 PM
+Oops, had more to say and hit enter too fast: This would be a different direction from the WriteFreely option, but it would fit both the criteria I gave above, as well as allowing for both posting of ideas and discussion to happen in the same place, instead of using Hypothes.is on top of WriteFreely. Or maybe they could even be complimentary: discussion on Linen, while longer form stuff got posted on WriteFreely. It might be something that could happen in stages, implement Linen first, then WriteFreely later. Lots to think about and mull over. I'll probably continue my research for the time being, see what other options I can turn up, and then do some comparison, there might be something even better than both of them I haven't come across yet!
+Fr David Baunach — 2/1/23, 5:02 PM
+Alright, here's what I'm planning for kickstarting a more formal expression of the University.
+
+My constraints: cannot start or run a business, don't have a ton of free time, don't have the desire or energy to start a not-for-profit.
+
+My capabilities: have typically a few hours a week, love to research, like to write up my research, like to find and share educational resources.
+
+With all that in mind, I think my immediate and short term goal, is to establish a loose learning community, where we essentially share research and resources, and once it has enough members, are able to ask for feedback on our writing or other projects.
+
+Basically a scholarly colloquium.
+
+Practically, I think it makes sense to start with just a channel here on the Saint Maker Discord. Once that gets too limiting, starting a Linen + WriteFreely community can be a next step.
+
+Only thing I could see starting sooner is the Linen, especially if it seems getting people onboarded to Discord becomes an obstacle. I can already see that potentially happening with some of the people I want to invite. Having an essentially open forum they can view without making an account might be easier than trying to get them accustomed to Discord.
+Fr David Baunach — 2/2/23, 8:52 PM
+Had some free time this afternoon and decided to start a Linen and see what happened. I got it running here: https://www.linen.dev/d/university-of-st-hildegard-of-bingen/c/the-colloquium easy to set up, documentation to setup a bot and connect to Discord was good. But I'm not sure if it's working as intended or not. My understanding going in was that it would be pulling convos from Discord to Linen. But how it seems to be working (and I could have messed up a step or something, could very easily be user error), is that it imported the stuff from Discord, and that's all it will do. Which is still great, just not what I was expecting. Going back to look at their documentation, in one place it does say "Import," however, in another it says "integrate."
+I'm not going to try any more troubleshooting today, but if anyone has any experience with Discord bots and has any thoughts, I'm all ears. I'll probably try their support at some point, but they seem to be a small team, so not sure if that will get anywhere.
+linen started a thread: Looks like I go. See all threads. — 5/12/23, 4:36 PM
+Thread
+Looks like I go
+1 Message ›
+There are no recent messages in this thread.
+
+
+>>>Channel: Saint Maker
+
+Fr David Baunach — 10/19/21, 2:16 PM
+From the whitepaper:
+[2:17 PM]
+The one thing that travels with most people throughout their day, is their phone. It is not a perfect end goal of what the Saint Maker is trying to accomplish, but it’s a start.
+
+Growing along with the university, will be a mobile application, that will be the start of the Saint Maker. It will be a type of digital parish.
+
+A place for prayer, community, challenge to conversion, and comfort in times of distress.
+
+It can also serve dual purpose as an interface for students with the university. Again, a further inter-connection between different aspects of life.
+[2:18 PM]
+Here is a place to dream about what can be included in that application, how we can begin it, and how we can keep it growing into the ultimate nexus of Catholicity!
+November 6, 2021
+
+Krysztof — 11/6/21, 3:46 PM
+For starters, we wouldn’t want to make a mobile app but instead what is called a “progressive web app.” (PWA) These are “apps” that are technically websites that have most of the capabilities of an app; because they are websites, you can go seamlessly from using them on a smartphone to using them on a desktop and they are much cheaper to maintain because they are just one codebase instead of three (one for website, one for IOS mobile app, and one for android mobile app).
+
+Whenever you see a website you visit on a desktop asking for your location or the ability to send you notifications, then you are probably dealing with a progressive web app (because it's tapping into those features that would be found on a smartphone).
+[3:48 PM]
+I think a good exercise would be to describe the apps and such on your phone that each of us use to assist in our lives as a Catholic; this will give us an idea of what can be moved into this SaintMaker app from the beginning so as to replace what we currently use.
+
+For me, it's mostly a series of google docs that hold examinations of conscience, daily prayers, records of adjustments I need to make to improve my life (removing vices, adding virtues, etc), and the like. I also have a few note widgets, acting as checklists, that help keep me on track to say morning/nightly prayer and the examination of conscience. I can’t think of many social/community apps that I would use other than say maybe a Catholic forum (which I would access through a website normally).
+November 9, 2021
+
+Fr David Baunach — 11/9/21, 8:55 AM
+Definitely a pwa, need to start this off as simple as possible. As to content, I wonder if we could start simple, as just a prayer book (which also seems to be what you're is doing alrready). There's a lot of apps out there already, which is good, because we can just borrow from what works well. I can already think of the next evolution of it, which would be a build your own prayer book: pick the prayers you want from  a list, and those are on the home screen for you (if we do start out simple, this isn't a problem, but once we add more prayers,  this will become a necessity, if you've ever tried to scroll through the "Prayers" section of iBreviary, being able to populate your own personal prayer section is a good thing). A further evolution would be the ability to add push notifications to prayers, to remind you to pray certain prayers at certain times of the day. This can also set the stage for a social aspect: we'll need accounts to make individualized prayer books, and at that point it would be cool if users could share their prayer books, or you could borrow the prayer book from someone you respect and use that.
+November 22, 2021
+
+Fr David Baunach — 11/22/21, 10:09 PM
+Had a random idea for further down the road when we have some sort of social aspect: would be cool to post status updates of what you are praying about (relative who died, friend having surgery, etc...). And then you can look in one place and see what all the people you follow are praying for, and pray for their intentions.
+December 3, 2021
+
+Krysztof — 12/3/21, 9:05 PM
+Been looking into some of the different open-source software licenses we could put this software under. This post has a good comparison of MIT, GPL, and Apache:
+https://www.exygy.com/blog/which-license-should-i-use-mit-vs-apache-vs-gpl
+and the answer to this question covers some of the gotchas of the Apache license
+https://www.quora.com/Whats-the-difference-between-Apache-v2-0-and-MIT-license-What-are-the-major-consequences-of-using-Apache-software-over-MIT
+Blog - Exygy | Exygy Recognized as One of the Fastest-Growing Compa...
+A guide to knowing which open source licenses to use: MIT, Apache, or GPL and their variants.
+
+
+1
+December 4, 2021
+
+Fr David Baunach — 12/4/21, 12:22 PM
+Looks like MIT is the way to go if we want this project as open as possible, but it was interesting reading about GPL, had no idea how that worked.
+December 30, 2021
+
+Fr David Baunach — 12/30/21, 8:38 PM
+Started doing some mockups on what a super simple prayer book would look like:
+[8:41 PM]
+Homepage:
+
+[8:41 PM]
+Prayer Book:
+
+[8:41 PM]
+Prayer Selected:
+
+[8:42 PM]
+Add Prayer:
+
+
+Fr David Baunach — 12/30/21, 8:48 PM
+And even though something like this would be absurdly simple, it would already be innovative, since I have yet to find an app that allows you to add your own prayers. This would also mean we don't have to curate a list of prayers, at least at first. And there's a bunch that can be added on to this: reordering prayers, setting timers via your phone for certain prayers, an archive of common prayers, and eventually a social aspect (adding prayers from other peoples lists, etc...).
+
+1
+January 3, 2022
+
+Fr David Baunach — 1/3/22, 2:59 PM
+The upshot from researching Open Collective is that they attempt to offer an in-between option for entities that are just starting up, before they have the funding to fully become a not-for-profit. OR, in the case of open source software, to provide a way to fund development without forming an foundation or organization.
+
+Fr David Baunach — 1/3/22, 3:07 PM
+We fall in the first category, since their requirements for open source software projects are well beyond our present capabilities. But here is the problem I found with the first category: we don't have to do all the legwork of becoming a 501c not-for-profit, but in order to accept donations and make use of them, we need to apply to a Fiscal Host, which is typically a 501c, which uses their bookkeeping department to run the books on our donations, as well as hold the money, and then disperse it when we submit invoices that follow rules we set up.
+
+Fr David Baunach — 1/3/22, 3:16 PM
+In order for us to have the best shot at getting accepted by a Fiscal Host, while we don't need to be fully ready to form a 501c, it seems we'll have the best shot at being accepted if we are at least be moving in that direction: have some sort of organizational structure, and a clear plan on what the funding raised through Open Collective will be for.
+[3:18 PM]
+So we have 2 tasks: 1. What type of organization is the Saint Maker and how will it be structured, AND 2. What will the funding raised via Open Collective be used for (implied in the question is that it should be used for something we will be doing years from now as well, so that we aren't setting up a revenue stream for something transitory)
+[3:19 PM]
+Question 1 really needs to be answered first, and if we do it right, we can use the newly decided structure to determine officially the answer to question 2. (edited)
+
+Fr David Baunach — 1/3/22, 3:41 PM
+My major thoughts on structure and organization are these: the Saint Maker is something build by the University of St Hildegard, thus the organization that will exist into the future is the University. Based on what the University will be (a collection of teaching companies), a traditional organization of a university isn't really ideal or necessary (so much wasted time and effort in a traditional university bureaucracy). I've tossed around the idea of a Decentralized Autonomous Organization (DAO), and I really think that is potentially the answer. Since this is a mission-oriented university, since the university will have sub-structures (the teaching companies themselves, and then the students within their ranks), since the many faceted nature of this university structure will need to grow and develop over time: a more natural and easily adaptable governance structure is needed. A DAO can fulfill this while a traditional board of directors and a binder of bylaws cannot.
+
+Fr David Baunach — 1/3/22, 4:11 PM
+To paint in broad strokes what this Saint Maker DAO would look like: needs to be able to grow from our small size of 5, up to potentially a university of thousands, so I think membership in the DAO should be one thing, but there needs to be some sort of hierarchical structure in regards to decision making. In other words, everyone participating in the university is a member, but decisions are made by the members that are impacted by said decision, and by weight of the position they hold. For example, voting on a matter that primarily impacts teachers, could also be voted on by students and teaching companies, because they will be effected by the decision to a certain extent, but since it isn't primarily about them their voting power is lessened to a percentage of the voting power of each individual teacher (teachers get 1 vote each, students and teaching company workers get 0.25 vote each, or something like that).  Categories of membership in the DAO could be really simple to start: builders (us and anyone else who joins us to build this thing), teaching company(I'm thinking every person who is a part of the company is a member, since they will all be impacted by decisions), and students. Categories could be added as needed.
+[4:12 PM]
+This is the direction I'm leaning in. It's a half-baked idea, but I've been playing with it for a while, and I see possibilities here.
+January 4, 2022
+
+Fr David Baunach — 1/4/22, 9:44 PM
+Was doing some research on DAO governance models, seems like the compartmentalization has already been tried in a few DAOs (https://future.a16z.com/building-and-running-a-dao-why-governance-matters/), here's the quote so you don't have to dig through the article:
+[9:44 PM]
+"Partition into “subgroups”
+Another potential tactic that can help expand a DAO’s membership and scope is partitioning a DAO into subgroups that each operate independently and focus on specific tasks (development, marketing, etc.). One of the first DAOs to partition itself successfully was Yearn Finance. Yearn’s rapid growth and constant product evolution led to a need to split up the team into multiple teams that independently handled tasks like front-end UX, core protocol development, and marketing."
+January 8, 2022
+
+Fr David Baunach — 1/8/22, 3:27 PM
+A further thought on governance: one issue DAOs attempt to solve is lack of participation in voting. Most DAOs use their governance token to help with this (offering rewards for voting, slashing if you don't vote, etc...), but since I'm looking at something identity-based w/o using a token, none of those methods will help. My thought is that voting power can degrade each time a vote is missed. Obviously an out needs to be given for those who don't have time to vote, so abstaining needs to be an option in each vote. But say you completely skip 3 votes, and then decide to vote on the 4th issue, perhaps 1% of your voting power can be lost from each vote that is not participated in, so instead of having a voting power of 1, after three missed votes you would have a voting power of 0.970299 (at least by my calculations, which nobody should trust!). Thus those who are more active in the community will have more of a say than those who ignore governance, but yet, they still have a voice when they do decide to vote. And again, my math skills are next to non-existent, so I could be wrong, but even if you continue to cut someones voting power by 1% after each missed vote, it should never go to zero, right?
+January 9, 2022
+
+FafnirBrood — 1/9/22, 1:30 PM
+Penalizing people for not voting in this way seems counterintuitive, since it further discourages voting in the future. Also, some people might legitimately neutral on the matter under debate or feel incompetent to decide(but feel strongly about other matters). Imo the best way to boost participation would be a nag screen like wikipedia does, and then make the voting process quicker and easier than clicking away from the popups
+
+@FafnirBrood
+Penalizing people for not voting in this way seems counterintuitive, since it further discourages voting in the future. Also, some people might legitimately neutral on the matter under debate or feel incompetent to decide(but feel strongly about other matters). Imo the best way to boost participation would be a nag screen like wikipedia does, and then make the voting process quicker and easier than clicking away from the popups
+
+Fr David Baunach — 1/9/22, 10:15 PM
+That is a good point. But to the neutral thing, that's why I suggest there always be an "abstain" option, because at least you participated, even if you don't care about the issue. And I really like the idea of the nag screen! Just make it something you have to get through in order to access everything else. Basically semi-forced participation, instead of incentivizing activity or disincentivizing inactivity.
+
+1
+January 10, 2022
+
+Fr David Baunach — 1/10/22, 4:36 PM
+On further reflection, really the best course seems to implement the most simple of voting procedures (for example: I. all builders get 1 vote, II. majority wins, III. proposals can be submitted by any builder, IV. voting takes place over the first 3 days of each month, V. proposals must be submitted by the 20th day of the month to be included in the next vote), and then let the governing process be used to determine further refinements as needed. No need to develop for as yet unforeseen situations, when we can just figure them out as we go.
+January 11, 2022
+
+Fr David Baunach — 1/11/22, 10:45 PM
+Just for the sake of thinking about the next step, if we went with a super simple organization for the University (like outlined in the above post), then the only thing left to consider is where we would direct funding raised via Open Collective.
+[10:45 PM]
+My initial thought is that it should be dedicated for the development of the Saint Maker. The need for that funding could continue far into the future, and, depending on what we are raising, it could be enough to help bootstrap teaching companies via hiring them to work on the Saint Maker.
+
+Fr David Baunach — 1/11/22, 10:54 PM
+At least the way I'm seeing it, if we dedicated it to anything else (startup funds for teaching companies, development costs for university, startup costs, etc...) then we are setting up a potential revenue stream for something that will eventually become irrelevant, and thus need to be shut down.
+January 23, 2022
+
+Fr David Baunach — 1/23/22, 12:21 PM
+Final thing I have been considering in regards to setting up the Open Collective, is how we describe what we are doing. Within the Catholic context, the idea of the Saint Maker and the University makes sense, but for those outside this context (presumably those who are running the Fiscal Host we will be approaching) having a more general way of explaining our goal would be helpful. Given the propensity for supporting open source software by Open Collective, I think we can lean into that angle, basically saying we are a group that wants to fund the building of open source software within the Catholic ecosystem. I think that fits with what we are trying to do with the Saint Maker, but also it does highlight the importance of what we are trying to do: since there is such a dearth of open source software within the Catholic software realm. On the church side, everything is stupid expensive, because there are only two companies, both making highly specialized software, but stuff that is honestly pretty simple, but without real competition they can charge whatever they want. And they do. So yes, I think it's honest and overall a good thing to say that our mission as an organization (at least in regards to Open Collective) is to provide funding for open source software projects within the Catholic ecosystem.
+
+Fr David Baunach — 1/23/22, 6:12 PM
+So I'm going to work on setting up the Open Collective over the next few days, since I can't think of any further things that need to be put together for it. I'll probably set it up and throw the link up here before I apply to a Fiscal Host.
+January 28, 2022
+
+Fr David Baunach — 1/28/22, 8:54 PM
+Signing up for the Open Collective, and they did have this in their terms of service: "We reserve the right, without notice and in our sole discretion, to terminate or suspend your account or your right to access or use our Platform. A Collective can also be suspended or discontinued at any time by us, the Host or the Collective Administrator. We are not responsible for any loss or harm related to your inability to access or use our Platform. You may stop using the Platform at any time. If we terminate or suspend your access to your account or our Platform, any licenses or rights we grant under these Terms will be immediately revoked."
+[8:54 PM]
+Which most services have in place, but something to keep in mind.
+February 25, 2022
+
+Fr David Baunach — 2/25/22, 1:38 PM
+Decentralized Autonomous Confederacy
+
+As we witness the callousness of Governments during these unfortunate days, the burden of working out alternatives to monolithic organizational structures weighs heavily on my mind.
+
+I tagged @Krysztof  to talk more about an idea expressed in passing for an alternative structure for a DAO, and I know work has been getting in the way of typing out those ideas, but figured I could share my own thoughts on the matter.
+
+The major problem with DAOs that can already easily be seen, is centralization. A lot of examples are out there: a single actor scoops up enough governance tokens to basically turn it into a dictatorship, funds end up being held in a multisig with just a few signers, founders become revered and few will question them, etc...
+
+The Achilles heal is having a communal treasury. Voting weight becomes an issue because some have contributed more or less, and are rewarded with more or less governance tokens, thus contributing to an initial imbalance that only seems to worsen over time.
+[1:39 PM]
+The solution myself and @Krysztof  were pondering, is getting rid of the communal treasury all together.
+
+Instead of having an organization in the strict sense, let the funds remain decentralized among the participants. A confederacy, instead of an organization.
+
+This also removes the need for voting. When something is proposed, members can pledge a certain amount towards that goal, thus removing the need for a more complicated set of governance mechanisms.
+
+If it's something the majority wants, the funding will eventually be raised, if not, it will eventually die.
+
+In relation to the Saint Maker, especially in regards to these early days where we are establishing patterns of governance that can have long-reaching consequences, this seems to be a valuable avenue to explore.
+[1:40 PM]
+The benefits I see are a looser organization, more emphasis on individual involvement, less structure required, security of centralized funding is not a concern, less tools need to be built to make this a reality.
+
+Really, the only things we need are some sort of escrow system where individuals can lock up funds towards a goal, and release them once they are satisfied that it has been accomplished.
+
+I think this will also lead to a more organic growth, as we'll only be able to do things we can raise the money for ourselves.
+
+One problem I saw with this, is that it would be difficult to raise funds for projects since there would need to be an active involvement on the part of every participant to release those funds once the project has been completed.
+
+But the solution to that problem seems that if someone wants to pledge towards a project, and then not be involved further, they would just add to the pledge of someone who is more involved, and they will release it when the time comes.
+March 19, 2022
+
+@Fr David Baunach
+Started doing some mockups on what a super simple prayer book would look like:
+
+Krysztof — 3/19/22, 7:42 AM
+Put together a rough draft of this prayer book as a PWA (which allows you to install it as an app on mobile). Sadly there is no persistent memory yet (any prayers you make will be erased when you leave the page) but this is enough of a draft that we should be able to bring it to an engineer and get a quote for the amount of work it would take to make a full-fledged version of this
+https://cb0806151.github.io/react-pwa-test/
+React App
+Web site created using create-react-app
+
+@Krysztof
+Put together a rough draft of this prayer book as a PWA (which allows you to install it as an app on mobile). Sadly there is no persistent memory yet (any prayers you make will be erased when you leave the page) but this is enough of a draft that we should be able to bring it to an engineer and get a quote for the amount of work it would take to make a full-fledged version of this https://cb0806151.github.io/react-pwa-test/
+
+Fr David Baunach — 3/19/22, 8:57 AM
+That's absolutely amazing!!! Thank you so much for putting that together! And I am finishing up taxes right now, so I should have an idea how much I could personally throw at it soon.
+
+1
+March 20, 2022
+
+@Krysztof
+Put together a rough draft of this prayer book as a PWA (which allows you to install it as an app on mobile). Sadly there is no persistent memory yet (any prayers you make will be erased when you leave the page) but this is enough of a draft that we should be able to bring it to an engineer and get a quote for the amount of work it would take to make a full-fledged version of this https://cb0806151.github.io/react-pwa-test/
+
+Fr David Baunach — 3/20/22, 7:02 PM
+Hey Krysztof, can I share this in an update on the subreddit? This + logo redesign would be a substantial enough topic for an update
+
+@Fr David Baunach
+Hey Krysztof, can I share this in an update on the subreddit? This + logo redesign would be a substantial enough topic for an update
+
+Krysztof — 3/20/22, 8:15 PM
+Yeah, that's okay
+
+1
+May 14, 2022
+
+Krysztof — 5/14/22, 10:11 PM
+It doesn't seem like we need to put a lot into these considering this is getting 5 - 10 proposals
+https://www.upwork.com/freelance-jobs/apply/Need-developer-for-small-react-native-task_~010028edd4cc4229fc/
+Upwork
+Need a developer for small react native task
+Hello Developers,
+
+Need a sample or demo app.
+1. Read SMS with react native (for both android and iOS without hash into sms)
+2. Show tool tip on icon press placed on Flatlist or Sectionlist ( please put at least 20 records)
+
+no fancy design needed, if you done previously it should be quick.
+
+Thank you
+Sajit
+[10:13 PM]
+So based on that I came up with this basic description (need to put together a list of tools)
+Need a developer for small React PWA
+
+Hey devs, got a pretty basic PWA that I need built. I already prepared a basic mockup of it as an example and I have few mockups as well, it’s just lacking persistent memory, offline usability, and a decent UI. It’s essentially a prayer book where the user is able to input prayers, save them, and delete them (hence the need for persistent memory). Here is the mockup I’ve prepared using a basic create-react-app PWA boilerplate:
+https://cb0806151.github.io/react-pwa-test/
+It won’t be built on top of this example (it’s just for show) but from the ground up (and one of the other requirements is that the code for it will be open sourced under the MIT license).
+
+Price: $200
+
+Experience Level: Intermediate
+
+Remote job
+
+One-time project
+May 15, 2022
+
+@Krysztof
+So based on that I came up with this basic description (need to put together a list of tools) Need a developer for small React PWA   Hey devs, got a pretty basic PWA that I need built. I already prepared a basic mockup of it as an example and I have few mockups as well, it’s just lacking persistent memory, offline usability, and a decent UI. It’s essentially a prayer book where the user is able to input prayers, save them, and delete them (hence the need for persistent memory). Here is the mockup I’ve prepared using a basic create-react-app PWA boilerplate: https://cb0806151.github.io/react-pwa-test/ It won’t be built on top of this example (it’s just for show) but from the ground up (and one of the other requirements is that the code for it will be open sourced under the MIT license).  Price: $200  Experience Level: Intermediate  Remote job  One-time project
+
+Fr David Baunach — 5/15/22, 8:48 PM
+Looks good! It does sound like you have multiple mockups, not sure if that was intentional.
+
+Krysztof — 5/15/22, 11:21 PM
+I should have phrased that better; I meant the example and the wireframes you put together a while back
+May 16, 2022
+
+Fr David Baunach — 5/16/22, 11:34 AM
+Ah, that makes sense
+May 18, 2022
+
+Fr David Baunach — 5/18/22, 3:26 PM
+Once you have the time and if you think the description is good, go ahead and start the search. I've got the money ready to go, so no need to wait any longer. Of course we'll have to figure out hosting and stuff once it's done, but we'll cross that bridge when we get to it.
+June 11, 2022
+
+Krysztof — 6/11/22, 3:53 PM
+Alright, the job posting is up https://www.upwork.com/jobs/~019bab50ed76d88a63
+Upwork
+Need a Developer for small React PWA
+Hey devs, got a pretty basic PWA that I need built. I already prepared a basic mockup of it as an example and I have few wireframe mockups as well; this example mockup is currently just lacking persistent memory (would prefer a combination of redux and indexDB), offline usability, and a decent UI. It’s essentially a prayer book where the user is...
+June 12, 2022
+
+Fr David Baunach — 6/12/22, 7:12 PM
+Yay!!! Thanks @Krysztof ! Any takers yet?
+
+Krysztof — 6/12/22, 8:05 PM
+Over 10, I'm going to sort through them tomorrow morning afternoon and see which ones seem best suited for the job (edited)
+
+1
+June 13, 2022
+
+Krysztof — 6/13/22, 5:26 PM
+Here's my initial analysis of the potential candidates; I do not recommend we work with the ones that are companies (apparently it complicates the process)
+https://docs.google.com/spreadsheets/d/1V_zQ9UHZ8hmUM7hJHT_ZJaLcIZ4R5ejnPItRPgpe2GQ/edit?usp=sharing (edited)
+Google Docs
+SaintMakerDevApplications
+Sheet1
+
+
+Price,Has built PWA,PWA,Job Success,Earned,Type
+Cendy,10,Yes,https://manga-reader-beta.vercel.app/,Unknown,0,Individual
+Oluka,180,Yes,https://m-uber-clone.netlify.app/,Unknown,10,Individua...
+
+[5:29 PM]
+I'm debating hiring two people to work on it; Cendy (who is just starting out his developer career on upwork (hence the reason they are only asking for $10)) and one of the more experienced engineers
+June 14, 2022
+
+Fr David Baunach — 6/14/22, 12:42 AM
+Very nice. Don't see any reason not to hire 2 or even 3, I'm good for up to $800. I think the only other person qualified to comment would be @FafnirBrood
+June 15, 2022
+
+Krysztof — 6/15/22, 6:37 PM
+I'm going to hire them today, three candidates have dropped already (I wouldn't say any of them were qualified though) and I don't want to keep them waiting any more
+
+1
+June 16, 2022
+
+Krysztof — 6/16/22, 4:24 PM
+So Cendy already completed his iteration of the project: https://prayer-book.vercel.app/prayers
+
+I definitely think we should hire him for future projects; he works really fast and even included a dark mode free of charge
+
+I've already cloned the codebase and will post it to the SaintMaker github when I get a chance (edited)
+
+Fr David Baunach — 6/16/22, 4:45 PM
+Dang, that was fast!
+
+Krysztof — 6/16/22, 4:46 PM
+I know, I'm still reeling from how quickly he built that (edited)
+June 17, 2022
+
+Krysztof — 6/17/22, 1:28 PM
+Ian finished up his iteration today: https://christopher-pwa.netlify.app/
+React App
+Web site created using create-react-app
+[1:28 PM]
+It's not as clean looking as Cendys, but we were hiring an engineer and not a designer
+[1:29 PM]
+I've cloned the codebase already and will repost it to the saintmaker github later on
+June 18, 2022
+
+Fr David Baunach — 6/18/22, 11:23 AM
+@Krysztof I was trying to check out the Cendy one, and I figured it would work like a website, so downloaded, unzipped, and opened the index.html file on a browser, but got nothing. Is there a different method I should employ?
+
+Krysztof — 6/18/22, 1:01 PM
+I'd just use the link he provided for now
+https://prayer-book.vercel.app/prayers
+when I get around to it I'll get both of them added to the saintmaker github and hosted from there (for now I only have the Cendy one added to the github)
+https://github.com/Saint-Maker/prayer-book-template
+GitHub
+GitHub - Saint-Maker/prayer-book-template
+Contribute to Saint-Maker/prayer-book-template development by creating an account on GitHub.
+
+
+1
+June 20, 2022
+
+Krysztof — 6/20/22, 8:20 PM
+got both repositories set up; see if this link works to view Cendys version of the prayer book (edited)
+
+Krysztof — 6/20/22, 8:47 PM
+https://resplendent-parfait-fc3040.netlify.app/
+
+Fr David Baunach — 6/20/22, 10:32 PM
+That's awesome! I do like Cendy's more, but they are both great starting points!
+June 21, 2022
+
+Krysztof — 6/21/22, 8:05 PM
+and the other one is deployed as well (gotta love these randomly generated names)
+https://ephemeral-rabanadas-1876cd.netlify.app/
+React App
+Web site created using create-react-app
+
+Fr David Baunach — 6/21/22, 8:35 PM
+Man, it is actually kinda tough, I do like aspects of each one. But I think I'm leaning towards Cendy's one
+
+Fr David Baunach — 6/21/22, 9:28 PM
+Okay, just testing out is exciting! I'm able to have all the blessing I usually use in one place, instead of going through 15 different menus on iBreviary!
+
+
+1
+[9:29 PM]
+I think I already know the answer to this, but even if we stopped hosting the app, if it's installed on the device, it'll keep working no problem, right?
+
+Krysztof — 6/21/22, 9:30 PM
+It will probably stop working (I think, I'd have to run a test but I'd do that with an isolated environment and not the one I shared above)
+
+1
+July 2, 2022
+
+Fr David Baunach — 7/2/22, 12:39 PM
+Hey, was just looking at the Github and saw this, is it something to worry about?
+
+
+Krysztof — 7/2/22, 1:24 PM
+Yes and no. It just makes the main branch un-delete-able. I'll set it to protected later on
+
+1
+July 13, 2022
+
+Fr David Baunach — 7/13/22, 10:55 AM
+Longish read, but some good thought on new social media projects not just being clones of old ones: https://thenewleafjournal.com/fediverse-clone-wars-and-decentralized-social-media/
+The New Leaf Journal
+The Fediverse Clone Wars
+An essay on the issues arising from Fediverse networks being clones of proprietary platforms and ideas for a decentralized future for social media.
+
+September 23, 2022
+
+Fr David Baunach — 9/23/22, 4:51 PM
+How to participate:
+
+Whitepaper: read it and comment on it with Hypothes.is
+
+Canny: propose features or projects, vote up or down (or comment on) other proposals.
+
+Github: check out issues, work on features that have been proposed, review code for efficiency and security.
+
+Discord: participate in discussions, propose projects to help further the roadmap, collaborate with other builders.
+
+Reddit: this is our public-facing community, so making posts that would explain the project to newcomers, as well as commenting on the posts of others.
+
+Everywhere else: if you know someone who would be interested in the project, introduce them to it. Talk about it on your social networks, write about it on your blog, make tutorials on how to get involved, everything helps!
+[4:52 PM]
+I'm thinking keep it simple like this, and post it on the website, and pin on the subreddit. Thoughts?
+
+Fr David Baunach — 9/23/22, 5:57 PM
+Oooo, almost forgot, the first one needs to be prayer for the project!
+September 24, 2022
+
+Been — 9/24/22, 12:05 AM
+Just noticed the A/B template for prayer book. I'm guessing 2 different contractors took a crack at it? Haven't downloaded/ran them but brief glance on GH, template A seems a lot more solid code-wise.
+
+Aaand just saw the previous messages on this channel with the hosted links. Man I'd do those things for some nice coffee
+
+Fr David Baunach
+I'm thinking keep it simple like this, and post it on the website, and pin on the subreddit. Thoughts?
+
+Fr David Baunach — 9/24/22, 8:19 PM
+I realized it made more sense just to add it as the readme to the Github org, and we can workshop it there. I just added it, go ahead and add suggestions there. (edited)
+
+@Been
+Just noticed the A/B template for prayer book. I'm guessing 2 different contractors took a crack at it? Haven't downloaded/ran them but brief glance on GH, template A seems a lot more solid code-wise.  Aaand just saw the previous messages on this channel with the hosted links. Man I'd do those things for some nice coffee
+
+Fr David Baunach — 9/24/22, 8:23 PM
+It was the first time any of us had tried to contract out for something to be made, very much a learning experience. And yeah, template A is what we're going with. Cool story with that, the person who made it seemed to be just finishing high school, so we have already begun fulfilling the mission of the University!
+
+Fr David Baunach — 9/24/22, 8:35 PM
+For the Confession tab of the PWA, I did start throwing together wireframes (still had a few more to go) to get a job description ready for that. But that definitely sounds like it's more in your area of expertise @Been, so if you want to take a crack at that, I'll pivot to getting a landing page for the University up and running. Could probably send some nice coffee your way if that's your fuel of choice [-: Btw, I can add you to the Github org, what's your username?
+
+Confession_Initial_Mockup.pdf
+49.38 KB
+
+Been — 9/24/22, 9:04 PM
+I only accept Guadalupe Roastery  or Mystic Monk. DM’d GH since it’s private
+September 25, 2022
+
+Fr David Baunach — 9/25/22, 9:16 PM
+Never heard of Guadalupe Roastery, will need to check them out
+November 26, 2022
+
+Fr David Baunach — 11/26/22, 8:16 PM
+@Krysztof did it! The prayer book PWA has editing and basic formatting controls!!!!! Improved functionality 100 fold:
+[8:16 PM]
+
+[8:16 PM]
+
+[8:17 PM]
+The fact that you can add the full text of night prayer, do all the formatting needed for it to make sense, and have it offline available, is amazing! So many possibilities!
+[8:18 PM]
+Here's the link to play around with it: https://resplendent-parfait-fc3040.netlify.app/prayers
+[8:18 PM]
+If you already had it installed, will need to uninstall and reinstall to see the changes.
+November 28, 2022
+
+Krysztof — 11/28/22, 8:34 AM
+I thought of a possible addition to the SaintMaker but it would definitely take a much more substantial system than what we have.
+
+At a Catholics Mens group I attended yesterday someone voiced their frustration with the lack of accounts of living the Catholic life. It would be interesting to have an online library of the lives of the saints that you could search by your age, vocation, and struggle and see how Saints dealt with those same circumstances.
+
+1
+
+@Krysztof
+I thought of a possible addition to the SaintMaker but it would definitely take a much more substantial system than what we have.  At a Catholics Mens group I attended yesterday someone voiced their frustration with the lack of accounts of living the Catholic life. It would be interesting to have an online library of the lives of the saints that you could search by your age, vocation, and struggle and see how Saints dealt with those same circumstances.
+
+Fr David Baunach — 11/28/22, 9:29 PM
+I like it! And while we could wait until we have a more robust app, it is something that could be started sooner, could basically run a blog of with posts of saint stories on the saint maker website, using tags to indicate search categories. Then we'd have info ready to plug in once we have a place to put it.
+
+1
+January 8, 2023
+
+Krysztof — 1/8/23, 9:57 AM
+Mostly wrapped up the habit tracker; going to merge it tonight and start work on the export import functionality next
+https://saintmaker.canny.io/quest-board/p/basic-habit-tracker-v1
+
+That mod question in the Catholic programmers discord was partly to figure out how to integrate it into the saintmaker. I'm thinking we should use the confession page as an experiment in making the SaintMaker moddable (though this will make it take longer); here is a rough draft for how I see it working:
+
+1. A user wants to make a mod for the SaintMaker
+2. They make their own website that has the mod as a page
+3. They then open a PR to link the SaintMaker to their mod. This manifests as a "Add More" button on the home page (see image below) which then opens up a searchable list of all the contributed mods.
+4. If a user selects a mod from the "Add More" page then it gets added to the home page.
+
+While this isn't true open-source "modability" (there is a curation phase where we approve their mod and their PR), I think its a good starting point. I also don't expect we will be able to have a wild west mod section; we will need to maintain some level of curation to keep out spam and troll mods. We could eventually offer two mod sections, curated and non-curated, but that'll be down the road (edited)
+[9:57 AM]
+
+January 9, 2023
+
+Fr David Baunach — 1/9/23, 3:58 PM
+That is so awesome!!! Love the minimalism, I'll put together a guide vid for how to set it up in the near future. As to the modding idea, I don't have any technical knowhow to help with that, but I like how it sounds. Some curation is probably necessary, and everything is out in the open, so if anyone really wants to go their own way with it, they can.
+
+Krysztof — 1/28/23, 12:22 PM
+Coding standards are gradually being implemented; I got prettier set up and some of the eslint rules loaded in, so I just need to get the rest of those rolled in, husky set up, and they will be done
+
+Here is the doc I'm working from. Its just the article copied over with links to the various rules I'm using to enforce the standards (or whether we are ignoring the standard) https://docs.google.com/document/d/1J-XUmnCYEoi4ZjNNkO4jZE5PDik4BfZEv2pF2h12Mlk/edit?usp=sharing
+
+I did break testing out into its own canny task so as to speed up work on the coding standards.
+https://saintmaker.canny.io/quest-board/p/set-up-testing-standards
+Google Docs
+CodingStandardPlan
+SaintMaker - Coding Standard Plan Boilerplate: We’ll be carrying over a lot of the standards from this guide, but really only the ones that are automatically enforceable (for the sake of making code review easier) https://www.jondjones.com/frontend/react/react-tutorials/react-coding-standards-an...
+Image
+Image
+Krysztof — 2/1/23, 8:53 AM
+Ran into an odd bug with the habits section a few days ago. When it switched over to a new week it cleared the oldest week (farthest left) instead of the most recent one (farthest right). I built a test specifically for this purpose and I could not get it to break after rewriting it to replicate the situation a different way.
+
+I then went to the website instead of the "app" version I had on my phones main screen and even though the data was the same the error wasn't present (the most recent week had been cleared); because of that, I went ahead and re-added as an app to my main screen and that resolved the issue.
+
+I'm going to put up a canny task for a "report a bug" button that opens a modal that has you checklist various troubleshooting steps; if you've done all of them, it redirects you to our github issues page (this'll need to be made dynamic so that for mods it redirects them to their githubs issues page)
+Fr David Baunach — 2/1/23, 3:30 PM
+We were going to need it eventually I guess
+Krysztof — 2/4/23, 6:14 PM
+Alright, the coding standards pull request is done; I'd recommend you all export your data just in case and to give you some time I'll wait till Monday to merge it
+Fr David Baunach — 2/11/23, 8:47 PM
+We are up to 4 completed quests on the Canny, all thanks to @Krysztof!
+Krysztof — 2/13/23, 11:05 PM
+Alright, testing standards are ready to be merged and I'll be merging them tomorrow afternoon; I don't anticipate any problems with the deployment but just giving you all a heads up anyway
+https://github.com/Saint-Maker/prayer-book-template-a/pull/6
+A bonus we got in this merge is DRY code checking. Happened upon this library while looking for possible solutions and it is very nice; allows us to set a threshold of how dry the code should be (currently at 99%) and runs fairly quickly
+https://github.com/kucherenko/jscpd
+Fr David Baunach — 2/14/23, 9:32 PM
+Me and @Krysztof got a few more things finished, and as of right now, we've got more stuff completed than uncompleted on the Canny!
+Krysztof — 2/20/23, 6:53 PM
+Created and started working on a task to test out if the plan for modding would even work; however, I'm pretty busy this week so I might not get back to it until next week
+https://saintmaker.canny.io/quest-board/p/test-modding-system
+My main concern is that when you navigate to these other sites/mods it'll take you out of the PWA and back to the browser. If that proves true, we are going to have to figure out a different modding system
+Image
+Fr David Baunach — 2/21/23, 9:00 PM
+Looking forward to your results!
+Krysztof — 3/2/23, 8:50 PM
+Mod test is complete.
+
+It's a bit of a mixed bag, on one hand it looks like the original plan will work but on the other hand when you go to a mod page from within the pwa you get the preview page bar along the top; clicking the x will bring you back to the app and sometimes the bar will still be there (though it will go away when you close and reopen the app)
+
+I think, based on this, we can either go ahead with this model of mods for now and test out "web components as iframes" later or just test out "web components as iframes" now and see whether that provides for a better mod experience
+Image
+Image
+Fr David Baunach — 3/2/23, 9:04 PM
+Interesting. Looks like you tested on android, did it work the same on desktop?
+Krysztof — 3/2/23, 9:04 PM
+drat I didn't test out desktop; I assume it'd be similar though
+Fr David Baunach — 3/2/23, 9:06 PM
+Might be good to. I assumed PWAs would work the same anywhere, only to learn that iOS devices wipe memory after three weeks of inactivity, so it seems on the OS side of the equation there are some differences.
+Krysztof — 3/2/23, 9:07 PM
+I've already torn down everything from the test; I can build it back up but honestly on desktop it seems better to advise users to just pin the Saintmaker as their startup tab on their browser
+Fr David Baunach — 3/2/23, 9:09 PM
+I'm assuming things would be better on desktop than on mobile, so probably not a big deal. Worst case is we'll catch it in field testing 😁
+Krysztof — 3/2/23, 9:18 PM
+Yeah, I also want to test out the web components as iframes sooner rather than later; if I get some more free time in the coming weeks that might mean this issue will be resolved before we even run into that much field testing.
+
+I'm going to start working on the Examination of conscience application next. I'm going to make it as a mod just to trial the system out but if we would prefer it to be a tab then we can test out an "integration" process where a mod is folded into the core SaintMaker application (since that may eventually be a common scenario if the users want it)
+Fr David Baunach — 3/3/23, 6:33 PM
+I like it! Might as well test all the processes at this early stage.
+Krysztof — 3/11/23, 7:58 AM
+I've almost wrapped up the examen basics but I'm getting stuck at the default examination of conscience; I cannot find one that I can be sure is in the public domain. I thought Pope St. Pius X had made that was pretty straightforward but I can't find it
+Krysztof — 3/11/23, 8:07 AM
+This is the one that I assumed was written by St. Pius X; I find it reused in multiple places but no original author is ever cited
+https://saintcyrils.church/wp-content/uploads/2019/11/Guide-for-a-Good-Confession-2018-Adult.pdf
+It appears that it might be from the USCCB which makes me hesitant to use it (oddly it is not the one listed on their site)
+Fr David Baunach — 3/11/23, 12:22 PM
+I'd say go ahead and use it, we can always pull it later and replace with another one.
+Krysztof — 3/11/23, 2:06 PM
+Alright, went ahead and got that loaded in. Between the hosting and the mod integration, I'm aiming for a release before EOD next saturday
+Krysztof — 3/17/23, 8:49 PM
+The first mod is now live!
+
+Let me know if you have any difficulties finding it, I had the page pinned so I had to unpin it, close it, and reopen it just to make it appear in with the other mods
+Image
+Fr David Baunach — 3/17/23, 9:02 PM
+It works, that is so awesome!!!
+Krysztof — 3/21/23, 8:12 PM
+Website improvement idea: removing this white band at the top would probably help the site look a bit better
+Image
+Fr David Baunach — 3/21/23, 8:17 PM
+I like it! But might be better just to do a complete redesign, it was thrown together so quickly. In a few weeks I might be able to throw money at hiring someone to redo it, though I'm not sure what price range we'd be looking at.
+On another note, I really like the preloaded examen option in the examen app. Might be a good idea to add that to the Prayer Book app as well, doesn't have to be a whole bunch of prayers, but just a few to show the capabilities.
+Krysztof — 3/22/23, 9:35 PM
+That seems like a good idea; I'm actually working on making the prayerbook searchable at the moment so I can add in some prayers (I'm thinking St. Michael the Archangel, the prayer of St. Augustine, and the prayer of St. Francis)
+Speakings of which, do we want the search system to be case insensitive?
+Fr David Baunach — 3/22/23, 9:36 PM
+Awesome!
+Fr David Baunach — 3/22/23, 9:37 PM
+I would think not, best to cast a wide net when searching.
+Krysztof — 3/22/23, 9:38 PM
+Wait, wide net is case insensitive? (searching 'armor' brings up 'armor' and 'Armor' in a case insensitive search)
+Fr David Baunach — 3/22/23, 9:38 PM
+Yes, case insensitive
+Fr David Baunach — 3/23/23, 3:42 PM
+Had a rough sketch of an idea for an app to add to the PWA in the future: a fertility tracker/NFP thing that keeps all data local and does all calculations on device. Will have to do some research before adding to the Canny, but I think it would be a good addition down the road.
+Fr David Baunach — 3/23/23, 3:43 PM
+Got the idea from seeing this headline: https://theconversation.com/popular-fertility-apps-are-engaging-in-widespread-misuse-of-data-including-on-sex-periods-and-pregnancy-202127
+The Conversation
+Popular fertility apps are engaging in widespread misuse of data, i...
+An analysis of 12 popular apps’ privacy policies reveals a number of concerns, including confusing privacy messages and unnecessarily long data retention windows.
+Popular fertility apps are engaging in widespread misuse of data, i...
+Krysztof — 3/25/23, 2:11 PM
+Alright, the "add custom mod" feature is now live and the "searchable prayerbook" feature will be live shortly. I'm going to work on fixing up the mod template next
+Krysztof — 3/25/23, 2:13 PM
+I am very wary of this idea. A fertility tracker, no matter how good, is not an exact science; with that, you have the potential to just give people more kids and, even when users are made aware of that fact, there are still too many cases where a non-Catholic was using an app like this, got pregnant, and had an abortion.
+
+To me, the risk in making such an application is just too high
+Krysztof — 3/30/23, 7:51 AM
+Added a bundle of tasks related to the habit tracker to the canny board
+https://saintmaker.canny.io/quest-board/p/setup-export-system-for-habit-data
+https://saintmaker.canny.io/quest-board/p/move-habit-tracker-out-of-the-saintmaker-core
+https://saintmaker.canny.io/quest-board/p/fix-problems-with-habit-mod
+
+This is primarily to move the habit tracker out of saint maker core. I'm trying to get the core to a stable state so that the only PRs against it will be adapters for mods.
+
+We should probably establish rules for what makes a mod "stable" enough to be added to core. I assume it would be a combination of user metrics and lack of changes. If your app has over a 100 unique monthly users and no changes to the repository in the last six months then it qualifies for being moved into core
+Image
+Image
+Image
+Fr David Baunach — 3/31/23, 1:09 PM
+Very nice!
+In regards to metrics for stable apps: would we even be able to track unique users?
+Krysztof — 3/31/23, 7:10 PM
+That's a good point, we don't want to suggest data collection. I guess stability of the repository is all we can go by but I'll think some more about it
+Krysztof — 4/1/23, 2:22 PM
+Feature for making the apps sortable was just merged
+
+It won't affect your data but it will change the app list back to default so you'll need to add back any additional apps you included on your home page
+Fr David Baunach — 4/1/23, 8:58 PM
+Very nice! Sent the $25, let me know if it comes through
+Krysztof — 4/1/23, 9:08 PM
+Yep, payment received 👍
+Krysztof — 4/21/23, 7:22 PM
+Started working on the mod template fixes. I'm "moving" it back into the core application; so as to eliminate code duplication, I'm just going to create a script that modifies the core application into a mod template. That way it could keep some of the tools, styles, etc that are already present in the core application and if any changes are made to the core application they will also apply to the mod template
+After that's done I'll probably look into moving the habit app out of core
+Krysztof — 4/22/23, 10:53 AM
+Since I'm going to be using it today I made some UX adjustments to the examen mod (they should be deploying shortly)
+https://github.com/Saint-Forge/saint-maker-examen-mod/pull/5
+GitHub
+Add in additional modals and fix editing by cb0806151 · Pull Reques...
+Adds in confirmation modals for when users reset counts or delete questions
+Also fixes editing so that on editing toggle it doesn't bring you back to the start of the page
+Add in additional modals and fix editing by cb0806151 · Pull Reques...
+Fr David Baunach — 4/22/23, 12:30 PM
+Very nice! I've used it a few times now, and honestly, best examen app I've used, just because it's so simple and flexible. Others try to do too much.
+Krysztof — 4/25/23, 8:09 AM
+Habit data downloading and uploading is live; I'd recommend testing it out if you use the habit tracker but you won't need to download them until we are taking down the core habit app.
+
+I'm planning a week of overlap time where the core habit app and the habit mod will both be live for easy migration; after that week I'll remove core habit app
+
+Here's a rough sketch of the migration plan:
+Create new fork of Saintmaker Core
+Recreate Habit app in fork and host (ensure importing habit data works)
+Add Habit app as mod to SaintMaker Core
+1 week later remove original Habit app
+
+Krysztof — 4/27/23, 7:38 AM
+The habits mod has been added to the marketplace (need to think about a new name for that) so I'll be deleting the old one next Friday and I'll post a reminder here next Thursday
+Fr David Baunach — 4/27/23, 2:07 PM
+Yay! But that does bring up a point I've been pondering: should we have two release tracks (not sure if that's the correct term): one that's more stable and one that's a dev release that we can update frequently and it doesn't matter if it get's broken. I'm thinking of a few Linux distros that I use that all have more stable releases, but you can also  opt into the dev release,  which is more frequent and cutting edge. It might also be something just to keep in mind for down the road, might not be worth doing this early in the game.
+Krysztof — 4/27/23, 9:53 PM
+We probably should do that; I'll put together a canny task for that tomorrow
+I also want to rename the repository to saint-maker-core (instead of prayer-book-template-a) but that will most likely take down the whole site so that will probably be after the habit app is entirely moved out
+
+Now that I say that, we should probably have a download/upload feature for selected mods since that will also be affected by the site going down
+Fr David Baunach — 4/27/23, 10:06 PM
+That's a good call, and should definitely do the rename (and live through the ramifications) before the invite for contributors. I'll definitely put a hold on that until you give the go ahead.
+Krysztof — 4/27/23, 10:09 PM
+If you can export your prayerbook and habits today or tomorrow morning then I can do the rename tomorrow afternoon and we'll just be done with it
+Also just checked and there is a possibility it won't break anything
+Fr David Baunach — 4/27/23, 10:12 PM
+I literally just backed up yesterday to try the pwa through Firefox (works on Android, not sure if it's working on desktop), so fire away whenever you want.
+Krysztof — 4/28/23, 8:33 PM
+Repository name change has gone through without a hitch 👍
+Krysztof — 4/29/23, 9:27 PM
+One of the problems that's been exposed by moving out the habits app (and that I was aware of a bit earlier with the examen app) is that we can't share the users selected apps between mods so every mod needs to navigate home and then to a different mod; while not an end of the world problem, this is a bit irritating
+
+It looks like there is a possible solution but it incorporates iframes. Incorporates them not in the usual way but moreso in a way where you kind of open up a passage between two local websites so that they can pass indexdb or localstorage data to each other. This would allow us to create an empty /data path for saintmaker core that would load extremely quickly, be embedded on mods as a 1 pixel element, and allow them to access the saintmaker core mod data so that they can display all of the users apps and buttons routing to them for easy navigation
+
+I'll try testing this out at some point but for now I'm going to put it as a backlog task
+Image
+Fr David Baunach — 4/30/23, 8:46 PM
+At first glance, I wonder if this is more of a feature? We could simplify the app structure by just making a back button, and just keep them that much more simple. Even when there are hundreds of apps available for the Saint Maker, can't see the average user having more that 20-30, so clicking back to home and then selecting the next app they want to use won't be that big of a deal, it's just one more click.
+
+From a more theological perspective, I think that approach would also help people focus, using one app at a time, and when they are done, having to return home to choose the next one. Makes using an app an exercise in intention, and just the second it takes to go back home gives a little time to form the intention for your next move.
+
+Those are just my initial thoughts, I'll think about it some more.
+Krysztof — 5/1/23, 5:23 PM
+Hmm, that's a good point; it does seem to keep it more cognitively isolated with the current setup
+Krysztof — 5/5/23, 9:49 AM
+Forgot to delete the old habit app yesterday. Will try and delete it today
+Fr David Baunach — 5/12/23, 11:12 PM
+Shared on Catholicism subreddit today, looks pretty cool: https://play.google.com/store/apps/details?id=com.fidelis1
+Fidelis - Apps on Google Play
+Welcome to Fidelis! This prayer app aims to help you build your prayer life!
+Fidelis - Apps on Google Play
+Fr David Baunach — 5/14/23, 9:19 PM
+Gave the app a spin, it's actually going along similar lines with the 'build your own' prayer book, plus scheduling prayer times. It's neat stuff, might be useful when considering ux stuff to do some in-depth analysis.
+Krysztof — 5/29/23, 8:20 AM
+We could fit this into a mod.
+
+I've been thinking about how beneficial it would be to have a website that aggregates Catholic software (and reviews of it) so that people have a one-stop-shop for a piece of Catholic software they are looking for. Wouldn't be difficult to turn into a website and then once it's complete it would just require going around to different online Catholic communities, asking them what Catholic software (or non-Catholic tools like groupme) they use, and adding each of those (plus their testimonies/review) to the site under their corresponding categories
+Fr David Baunach — 5/29/23, 11:39 PM
+I've found these two lists already: 1. https://github.com/servusDei2018/awesome-catholic 2. https://github.com/historical-theology/awesome-theology (was going to see if I could get the Saint Maker added to them at some point). The first one just had an entry added last month, so it's maintained. Might be able to build off that. But yes, I'd love to see this happen, I really miss when Catholic Culture used to have reviews of Catholic sites, was incredibly useful.
+GitHub
+GitHub - servusdei2018/awesome-catholic: A curated list of awesome ...
+A curated list of awesome open-source Catholic projects, libraries and software - GitHub - servusdei2018/awesome-catholic: A curated list of awesome open-source Catholic projects, libraries and so...
+GitHub - servusdei2018/awesome-catholic: A curated list of awesome ...
+GitHub
+GitHub - historical-theology/awesome-theology: A curated list of op...
+A curated list of open source software for Catholic theology - GitHub - historical-theology/awesome-theology: A curated list of open source software for Catholic theology
+GitHub - historical-theology/awesome-theology: A curated list of op...
+Krysztof — 6/9/23, 8:11 PM
+Those two would alone have enough websites to turn into a ton of review posts; I could see starting a bunch of social media accounts and then going through thoses list one by and one and making monthly posts reviewing each of them (which could then drive more recommendations from the community to help build up the lists)
+I noticed that there was a ticket for changing the url of the saintmaker pwa; its kinda possible to do that with netlify so I went ahead and changed the url to https://saintmaker.netlify.app/
+https://saintmaker.canny.io/quest-board/p/change-url-for-pwa
+Change url for PWA | Quest Board | Saint Maker
+It seems like it should be easy (famous last words) to add a subdomain to saintmaker.xyz and then point the PWA to it.
+Image
+Also, just merged in the latest mod; its just a simple timer for ensuring a minimum amount of time is spent on each segment when saying Lectio Divina. It's just a personal thing that I wanted to work on to help me out with not rushing through Lectio Divina in 5 minutes and it is helped quite a bit. I take a mostly written approach to it so I write out the verse, then my meditations, then the orations, and then switch to thought for the contemplation segment and this timer has helped quite a bit; before I used to write about two paragraphs at most for a whole session of Lectio Divina and now with it I'm writing about a page, if not more, per session
+I'm going to start work on the amendments feature for the confession mod next
+https://saintmaker.canny.io/quest-board/p/add-amendments-feature-to-eoc
+Add "Amendments" feature to EoC | Quest Board | Saint Maker
+This would be a feature that can be toggled on and off in the Examination of Conscience app. It would add a dropdown with a textarea below each selected sin so
+Image
+Fr David Baunach — 6/10/23, 8:49 PM
+For sure, but just to clarify, are you proposing this should be part of the Saint Maker project? Like an app, or just a page on the website?
+Fr David Baunach — 6/10/23, 8:49 PM
+Very nice! I'll update links on the website and other places!
+Fr David Baunach — 6/10/23, 8:51 PM
+Very cool, will have to check it out!
+Fr David Baunach — 6/10/23, 8:53 PM
+I like this, it's part of the conversation I often have with people in the confessional, trying to figure out something concrete that can be changed to make it just a little more difficult to commit that sin in the future. And it reminds me we still need to figure out how to encrypt Saint Maker files, so I might try to sink some time into that research this week.
+Krysztof — 6/11/23, 7:24 AM
+Just an app, not a part of the SaintMaker
+Krysztof — 6/11/23, 7:47 AM
+Alright 👍 do you want me to mark the task as complete or will you do that when you finish updating the links?
+Krysztof — 6/11/23, 10:01 AM
+I also have a prayer that we can possibly add to the prayerbook; it's Saint John Henry Newmans "mission of my life" prayer
+God has created me to do Him some definite service. He has committed some work to me which He has not committed to another. I have my mission. I may never know it in this life, but I shall be told it in the next.
+I am a link in a chain, a bond of connection between persons. He has not created me for naught. I shall do good; I shall do His work. I shall be an angel of peace, a preacher of truth in my own place, while not intending it if I do but keep His commandments.
+Therefore, I will trust Him, whatever I am, I can never be thrown away. If I am in sickness, my sickness may serve Him, in perplexity, my perplexity may serve Him. If I am in sorrow, my sorrow may serve Him.
+He does nothing in vain. He knows what He is about. He may take away my friends. He may throw me among strangers. He may make me feel desolate, make my spirits sink, hide my future from me. Still, He knows what He is about.
+
+Fr David Baunach — 6/11/23, 9:53 PM
+I marked it complete, but when I checked the website it's still pointing to the old url, even though the pull request went through and the site was redeployed. I'm wondering if that's just the cached version of the site on my browser though. Will have to test some more.
+Fr David Baunach — 6/11/23, 10:09 PM
+Found my error, which might just be a new thing Cloudflare is doing, but changes are pushed into a preview build, which needs to be approved to go live. I can definitely see the wisdom in such an approach, though it seems like overkill in our case. I need to find another hosting provider, if anyone has any suggestions I'm all ears.
+Fr David Baunach — 6/11/23, 10:10 PM
+Do you mean like add it as a pre-populated prayer? But regardless, a very cool prayer, I've prayed it often.
+Fr David Baunach — 6/11/23, 10:41 PM
+Ooooo, idea: we should use the wayback machine and see if we can find what the old CatholicCulture website reviews looked like!
+Fr David Baunach — 6/11/23, 11:08 PM
+Found it! https://web.archive.org/web/20040722012451/http://www.catholicculture.org/sites/sites.cfm
+Catholic Culture : Site Reviews
+Catholic Culture provides: Liturgical Year, Documents / Articles, Site Reviews, the Catechism, and more.
+Krysztof — 6/30/23, 9:54 PM
+I'm going to be merging in some changes to the examination of conscience tomorrow but it shouldn't interrupt anything
+Krysztof — 7/1/23, 9:23 AM
+And it's merged. It adds the "Amends" feature to the examination of conscience; when you click on the "Show Selected" button a text field is included below the selected sins so that you can spell out what you are going to do to ensure you don't commit that sin again
+https://saintmaker.canny.io/quest-board/p/add-amendments-feature-to-eoc
+Add "Amendments" feature to EoC | Quest Board | Saint Maker
+This would be a feature that can be toggled on and off in the Examination of Conscience app. It would add a dropdown with a textarea below each selected sin so
+Image
+Fr David Baunach — 7/1/23, 7:54 PM
+Very nice! I love it!
+Krysztof — 7/23/23, 5:17 PM
+I've been taking July off but it's starting to come to an end, once August starts I'm going to be resuming work. I'm going to be starting with the counter habits, I've been running into a few situations where this feature would be helpful
+https://saintmaker.canny.io/quest-board/p/add-counter-habits-to-habit-mod
+Add "Counter" habits to habit mod | Quest Board | Saint Maker
+Counter habits allow users to count up the amount of times they are doing something each day. This is a necessary habit for certain types of improvements
+Image
+Fr David Baunach — 7/23/23, 10:11 PM
+I like it!
+Fr David Baunach — 8/5/23, 7:44 PM
+Saint Maker Social Network
+This is something I've been pondering for at least the last 6 months.
+
+So long ago, I can't even find my original notes since I switched note-taking software since then.
+
+But I had a few goals in mind:
+
+Non-addictive, slow, thoughtful.
+As p2p and offline-first as possible.
+No servers for us to run.
+
+Goal number 1 seems best served by some type of blogging platform. It should be designed to promote long form content.
+
+Number 2 and 3 is where things get difficult, and why I spent so much time thinking and researching.
+
+True p2p is not possible at this time, a p2-Internet-2p (p2i2p from now on) is the best we can do without digging in to some difficult to use protocols.
+
+But p2i2p is easy enough, it's what we're all used to. Offline-first also shouldn't be too difficult, it's how we've designed the rest of the PWA.
+
+No servers that we are running (beyond the hosting we're paying for) is what really held me up.
+
+What I came up with is something I think is simple and practical enough it should work, but also has a bit of a bar to entry.
+We could re-use the ui for the Prayer Book. But instead of adding prayers, you'd add urls of git repositories housing logs written in Markdown or HTML or maybe even just TXT. This would populate the "prayers" with those logs, allowing you to collect logs from various people in one place.
+
+In the background, it seems the only functions necessary is git, and something for rendering the files. Adding a repo url is prompting a git clone, we'll need a refresh button to trigger a git fetch, and then something to render whatever types of files we indicate as the standard.
+
+To write a log, just need to start an account on Github or Gitlab or whatever, start a repo, and literally just have one log file that can be added to whenever you want to post.
+
+I'm no dev, so I don't know that this is possible within a PWA, but from what I've read it seems possible, and the amount of dependancies should be pretty low.
+
+And this will definitely be an exclusive sort of social network. Needing to start and host a git repository somewhere will definitely not make it easy for grandma to join.
+
+However, this is just a start, and honestly, putting together some sort of webapp to host text-only repos with a simple front end that grandma could use, would be easy and cheap.
+
+And it does check all the boxes: text-only will foster creativity and keep addictivness low, it is p2i2p for sure, offline-first for sure, and we don't have to run anything for it to work.
+
+If anyone has any feedback, I'm all ears.
+Fr David Baunach — 8/10/23, 10:05 AM
+Update on looking into best practices for security and privacy for the PWA: I did a link dump of resources I found on the Canny task. Upshot was: it is possible to encrypt everything stored locally via a password. Possible vulnerability is limited to on-device attacks, as well as server side. From what I saw during research, man in the middle attacks are thwarted by https. So I definitely think its a good idea to start looking into encryption methods that would make sense for how our pwa is designed. There are a few mentioned in some of the articles. I don't think I've got enough knowledge to do that research, but I'll definitely keep on the lookout for more resources.
+Fr David Baunach — 10/22/23, 12:00 PM
+Had some more time to think about pivoting toward an actual mobile app. I am still interested in the prospect of using something like Flutter to make an app that would work cross-platform, as long as we don't descend into dependency hell. Something interesting occurred to me: begin by making the app a mini browser, so that the present PWA could still work inside it. That way we lose nothing that's already been made, it'll still be easy to add more apps. Of course I say this not knowing if that is even possible. But if not, I think we need to have a discussion about how to build an application is such a way that mods/apps can be added in a decentralized way. I think that's what made the PWA such a useful thing.
+Krysztof — 10/23/23, 8:05 AM
+Hmmmm, so we wouldn't build a browser but just the initial version of the mobile/flutter app would include a webframe. That way you would still have access to the website and we'd gradually rebuild the mods for mobile one by one while still having access to the web version. Once everything is ported over we'd remove the webframe and "sunset" the website (we wouldn't shut it down, its not costing us anything, we'd just stop referring people to it)
+Fr David Baunach — 10/23/23, 11:42 AM
+Sweet! But that still brings up the problem of making it easy for people to add their own mods easily. Is that something that's possible? I haven't really seen other mobile applications that include easy mod import and export. I know it's ultimately a security risk, but I think it was the biggest strength of the PWA.
+Fr David Baunach — 11/5/23, 6:48 PM
+Found a Bitcoin Lightning wallet that runs as a PWA, figure it might be useful to look at if we ever want to revisit the idea of securing the PWA (since the wallet has to handle a keypair in order to work): https://github.com/MutinyWallet/
+GitHub
+Mutiny Wallet
+Mutiny Wallet has 18 repositories available. Follow their code on GitHub.
+Mutiny Wallet
+Krysztof — 1/7/24, 8:30 AM
+Tasks have 99% been migrated from the Canny to the forum; for some strange reason though, the post for the saint maker social task redirects to the yunohost login page though and because of that I wasn't able to complete the migration of it
+https://techpriesthub.xyz/fluxbb/viewtopic.php?id=26
+Fr David Baunach — 1/8/24, 3:13 PM
+Thanks for doing that! The link seems to have fixed itself, not sure why, but it did that the first time I clicked it as well.
+Krysztof — 1/14/24, 7:26 AM
+How do we want to mark tasks in the forum as done? Just add a reply saying they are done?
+(reason for asking: just finished adding the Saint Maker Forum as a mod to the pwa)
+Fr David Baunach — 1/14/24, 8:11 PM
+You can edit any post you've made, so I guess edit the subject to read: "COMPLETED: Saint Maker Social" or something like that. Should probably add a comment to it explaining how you completed it.
+Fr David Baunach — 1/15/24, 1:03 PM
+Just did what I suggested on this task: https://techpriesthub.xyz/fluxbb/viewtopic.php?id=14 for an example
